@@ -1,4 +1,4 @@
-本スクリプトは ChatGPT に書いてもらったものです。この README も ChatGPT に書いてもらいました。
+※本スクリプトは ChatGPT（GPT-4） に書いてもらったものです。この README も ChatGPT（GPT-4） に書いてもらいました。
 
 # Git Diff Exporter
 
